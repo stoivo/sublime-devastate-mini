@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>scope</key>
-    <string>source.fish</string>
+    <string>source.fish,source.shell.fish</string>
     <key>settings</key>
     <dict>
       <key>icon</key>
